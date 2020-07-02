@@ -2,4 +2,4 @@
 entries:
   - catalog:
       description: Go-kit
-      source: git@github.com:archetect/catalog-go.git
+      source: git@github.com:archetect/archetype-go-kit.git
