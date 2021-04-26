@@ -1,5 +1,5 @@
 ---
 entries:
-  - catalog:
+  - archetype:
       description: Go-kit
-      source: git@github.com:archetect/archetype-go-kit.git
+      source: https://github.com/archetect/archetype-go-kit.git
